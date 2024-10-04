@@ -243,7 +243,4 @@ Enter your choice: 5
 Enter Room ID to Vacate: 1
 Room 1 is now unoccupied. AC and lights turned off.
 ```
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
