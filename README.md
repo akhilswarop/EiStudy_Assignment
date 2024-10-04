@@ -15,8 +15,8 @@
   - [Installation and Setup](#installation-and-setup)
   - [How to Use](#how-to-use)
   - [Design Principles and Patterns](#design-principles-and-patterns)
-  - [Future Improvements](#future-improvements)
-  - [License](#license)
+
+
 
 ---
 
@@ -243,10 +243,6 @@ Enter your choice: 5
 Enter Room ID to Vacate: 1
 Room 1 is now unoccupied. AC and lights turned off.
 ```
-
----
-
-## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
